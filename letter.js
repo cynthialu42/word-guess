@@ -30,3 +30,5 @@ var Letter = function(correctLetter, hasBeenGuessed){
         }
     }
 }
+
+module.exports = Letter;

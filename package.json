@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cynthialu42/word-guess/issues"
   },
-  "homepage": "https://github.com/cynthialu42/word-guess#readme"
+  "homepage": "https://github.com/cynthialu42/word-guess#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
 }
